@@ -1,9 +1,9 @@
 test file 01a
 test file 02a
 test file 03a
-test file 04b
-test file 05b
-test file 06b
+test file 04
+test file 05
+test file 06
 test file 07c
 test file 08c
 test file 09c
